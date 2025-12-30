@@ -1,18 +1,11 @@
 {
-    "id": 140,
-    "name": "The Carrington Event",
-    "author": "marhz",
+    "id": 100,
+    "name": "Baseplate Demon",
+    "author": "TheTemplate",
     "creators": [],
-    "verifier": "marhz",
-    "verification": "https://www.youtube.com/watch?v=oByNbBD6i4M",
+    "verifier": "TheTemplate",
+    "verification": "nothing",
     "percentToQualify": 100,
     "password": "Copyable",
-    "records": [
-          {
-			"user": "Pygmy",
-			"link": "https://www.youtube.com/watch?v=A30fo6RvRqw&feature=youtu.be",
-			"percent": 100,
-			"hz": 480
-		}
-    ]
+    "records": []
 }
