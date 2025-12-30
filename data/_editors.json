@@ -1,32 +1,17 @@
 [
     {
         "role": "owner",
-        "name": "Lunaria",
+        "name": "Lunikay",
         "link": "nah"
     },
     {
-        "role": "helper",
-        "name": "Kyy",
-        "link": "nah"
-    },
-  {
-        "role": "helper",
-        "name": "Hexy",
-        "link": "nah"
-    },
-      {
-        "role": "helper",
+        "role": "owner",
         "name": "Furrious",
         "link": "nah"
-      },
-    {
-        "role": "helper",
-        "name": "Krieger",
-        "link": "nah"
     },
     {
         "role": "helper",
-        "name": "Kuramishiro",
+        "name": "Hexy",
         "link": "nah"
     }
 ]
